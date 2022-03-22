@@ -1,4 +1,3 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takacom&theme=vue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takacom)](https://github.com/anuraghazra/github-readme-stats)
 
