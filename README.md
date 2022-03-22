@@ -2,7 +2,7 @@
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacom&show_icons=true)
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takacom" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takacom?count_private=true" />
 
 <!--
 **takacom/takacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
