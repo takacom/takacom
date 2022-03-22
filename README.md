@@ -1,5 +1,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takacom&theme=vue)
- 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takacom)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacom&show_icons=true)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takacom)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
